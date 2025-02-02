@@ -13,7 +13,7 @@ I’m a rail fan who enjoys creating content and working on unique tech solution
 👉 [Leads Management CRM](https://github.com/aaravsagar/Leads-Management-CRM) - A lead management system as my first project.  
 👉 [Portfolio Website](https://github.com/aaravsagar/portfolio) - My Portfolio Website as my Second project.  
 👉 [Noteify Note Taking Website](https://github.com/aaravsagar/noteify) - A lead management system as my Third project.  
-👉 [Calcverse](https://github.com/aaravsagar/Leads-Management-CRM) - A Electron Calculator and Unit converter app as my fourth project.  
+👉 [Calcverse](https://github.com/aaravsagar/calcverse) - A Electron Calculator and Unit converter app as my fourth project.  
 
 ---
 
